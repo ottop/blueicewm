@@ -1,0 +1,1200 @@
+# Windows initially placed manually by user
+ManualPlacement=0 # 0 / 1
+
+# Smart window placement (minimize overlap)
+SmartPlacement=1 # 0 / 1
+
+# Shaped pixmaps protect client window
+ShapesProtectClientWindow=1 # 0 / 1
+
+# Enable full-screen mode for windows
+AllowFullscreen=1 # 0 / 1
+
+#Size hint consideration disabled
+ConsiderSizeHintsMaximized = 0
+
+# Limit by dock layer
+LimitByDockLayer=0 # 0 / 1
+
+# Center maximixed windows
+CenterMaximizedWindows=0 # 1 / 1
+
+# Hide fullscreen borders
+HideBordersMaximized=1
+
+# Show Preferences submenu
+ShowSettingsMenu = 0
+
+#Show CPU temp in status br
+CPUStatusShowAcpiTempInGraph=1
+
+
+
+#Color of the CPU temp
+ColorCPUStatusTemp = "#159e5f"
+
+# Raise windows when focused
+RaiseOnFocus=1 # 0 / 1
+
+# Raise window when client area clicked
+RaiseOnClickClient=0 # 0 / 1
+
+# Raise window when title bar is clicked
+RaiseOnClickTitleBar=0 # 0 / 1
+
+# Raise when frame button is clicked
+RaiseOnClickButton=0 # 0 / 1
+
+# Raise when frame border is clicked
+RaiseOnClickFrame=0 # 0 / 1
+
+# Pass focusing click on client area to client
+PassFirstClickToClient=0 # 0 / 1
+
+# Focus window when client area clicked
+FocusOnClickClient=0 # 0 / 1
+
+# Focus windows by clicking
+ClickToFocus=0 # 0 / 1
+
+# Focus normal window when initially mapped
+FocusOnMap=0 # 0 / 1
+
+# Focus window when application window is raised
+FocusOnAppRaise=0 # 0 / 1
+
+# Change workspaces when focusing on a window on another workspace
+FocusChangesWorkspace=0 # 0 / 1
+
+# Lower a raised window if clicked a second time
+LowerOnClickWhenRaised=0 # 0 / 1
+
+# Bitmask of buttons that raise the window when pressed
+ButtonRaiseMask=1
+
+# Limit initial size of windows to screen
+LimitSize=1 # 0 / 1
+
+#Fullscreen does not go above bar
+ConsiderHBorder = 1
+ConsiderVBorder = 1
+
+# Limit initial position of windows to screen
+LimitPosition=1 # 0 / 1
+
+# Show position status window during move/resize
+ShowMoveSizeStatus=1 # 0 / 1
+
+# Font for the window's move/resize status
+moveSizeFontName="-liberation-mono-bold-r-*-*-*-100-*-*-*-*-*-*"
+moveSizeFontNameXft="liberation-mono:size=6:bold"
+
+# Opaque window move
+OpaqueMove=1 # 0 / 1
+
+# Opaque window resize
+OpaqueResize=1 # 0 / 1
+
+# Auto raise windows after delay
+AutoRaise=1 # 0 / 1
+
+# Snap to nearest screen edge/window when moving windows
+SnapMove=1 # 0 / 1
+
+# Allow mouse actions on client windows (buggy with some programs)
+ClientWindowMouseActions=1 # 0 / 1
+
+# Delay before windows are auto raised
+AutoRaiseDelay=0 # 0-5000
+
+# Resistance in pixels when trying to move windows off the screen
+EdgeResistance=32 # 0-10000
+
+# Distance in pixels before windows snap together
+SnapDistance=8 # 0-128
+
+# Horizontal window border
+BorderSizeX=6 # 0-128
+
+# Veritical window border
+BorderSizeY=6 # 0-128
+
+# Resize corner width
+CornerSizeX=24 # 0-64
+
+# Resize corner height
+CornerSizeY=24 # 0-64
+
+# Active border color
+ColorActiveBorder="rgb:C0/C0/C0"
+
+# Normal border color
+ColorNormalBorder="rgb:C0/C0/C0"
+
+# Minimized window font
+MinimizedWindowFontName="-liberation-mono-medium-r-*-*-*-120-*-*-*-*-*-*"
+MinimizedWindowFontNameXft="liberation-mono:size=10:medium"
+
+#TempFontName="-liberation-mono-medium-r-*-*-*-80-*-*-*-*-*-*"
+TempFontNameXft="liberation-mono:size=9:medium"
+
+# Normal minimized window color
+ColorNormalMinimizedWindow="rgb:C0/C0/C0"
+
+# Normal minimized window text color
+ColorNormalMinimizedWindowText="rgb:00/00/00"
+
+# Active minimized window color
+ColorActiveMinimizedWindow="rgb:E0/E0/E0"
+
+# Active minimized window text color
+ColorActiveMinimizedWindowText="rgb:00/00/00"
+
+# Move/size status color
+ColorMoveSizeStatus="rgb:C0/C0/C0"
+
+# Move/size status text color
+ColorMoveSizeStatusText="rgb:00/00/00"
+
+# Enable Quick-switch (Alt+Tab) window switching
+QuickSwitch=1 # 0 / 1
+
+# Enable Alt+Tab to minimized windows
+QuickSwitchToMinimized=1 # 0 / 1
+
+# Enable Alt-Tab to hidden windows
+QuickSwitchToHidden=1 # 0 / 1
+
+# Enable Alt+Tab to windows on other workspaces
+QuickSwitchToAllWorkspaces=0 # 0 / 1
+
+# Quick-Switch groups windows on current workspace
+QuickSwitchGroupWorkspaces=1 # 0 / 1
+
+# Show a small window
+QuickSwitchSmallWindow=0 # 0 / 1
+
+# Fill highlight rectangle
+QuickSwitchFillSelection=0 # 0 / 1
+
+# Show all icons
+QuickSwitchAllIcons=0 # 0 / 1
+
+# Use large (48x48) icons in quick switch window
+QuickSwitchHugeIcon=0 # 0 / 1
+
+# Show text above icons
+QuickSwitchTextFirst=0 # 0 / 1
+
+# Border size of quick-switch icons
+QuickSwitchIconBorder=2 # 0-30
+
+# Size of icon margins of quick-switch icons
+QuickSwitchIconMargin=4 # 0-30
+
+# Horizontal margin of quick-switch window
+QuickSwitchHorzMargin=3 # 0-30
+
+# Vertical margin of quick-switch window
+QuickSwitchVertMargin=3 # 0-30
+
+# Size of the quick-switch window separator
+QuickSwitchSeparatorSize=6 # 0-30
+
+# Quick switch window font
+QuickSwitchFontName="-liberation-mono-bold-r-*-*-*-120-*-*-*-*-*-*"
+QuickSwitchFontNameXft="liberation-mono:size=11:bold"
+
+# Quick switch window color
+ColorQuickSwitch="rgb:C0/C0/C0"
+
+# Quick switch text color
+ColorQuickSwitchText="rgb:00/00/00"
+
+# Color of quick-switch highlight rectangle
+ColorQuickSwitchActive="rgb:00/EE/FF"
+
+# Horizontal dialog window border
+DlgBorderSizeX=2 # 0-128
+
+# Vertical dialog window border
+DlgBorderSizeY=2 # 0-128
+
+# Default IceWM dialog action (0 for "Cancel", 1 for "OK")
+MsgBoxDefaultAction=0 # 0-1
+
+# Center dialogs on owner window
+CenterTransientsOnOwner=1 # 0 / 1
+
+# Focus dialog window when initally mapped
+FocusOnMapTransient=1 # 0 / 1
+
+# Focus dialog window when initially mapped only if parent frame focused
+FocusOnMapTransientActive=1 # 0 / 1
+
+# Normal button font
+NormalButtonFontName="-liberation-mono-medium-r-*-*-*-120-*-*-*-*-*-*"
+NormalButtonFontNameXft="liberation-mono:size=11:medium"
+
+# Active button font
+ActiveButtonFontName="-liberation-mono-bold-r-*-*-*-120-*-*-*-*-*-*"
+ActiveButtonFontNameXft="liberation-mono:size=11:bold"
+
+# List box font (Window list box)
+ListBoxFontName="-liberation-mono-medium-r-*-*-*-120-*-*-*-*-*-*"
+ListBoxFontNameXft="liberation-mono:size=11:medium"
+
+# Dialog Label font
+LabelFontName="-liberation-mono-medium-r-*-*-*-140-*-*-*-*-*-*"
+LabelFontNameXft="liberation-mono:size=11:medium"
+
+# Dialog box color
+ColorDialog="rgb:C0/C0/C0"
+
+# List box color (Window list)
+ColorListBox="rgb:C0/C0/C0"
+
+# List box text color (Window list)
+ColorListBoxText="rgb:00/00/00"
+
+# List box selection color (Window list)
+ColorListBoxSelection="rgb:80/80/80"
+
+# List box selection text color (Window list)
+ColorListBoxSelectionText="rgb:00/00/00"
+
+# Dialog Label color
+ColorLabel="rgb:C0/C0/C0"
+
+# Dialog Label text color
+ColorLabelText="rgb:00/00/00"
+
+# Normal button color
+ColorNormalButton="rgb:C0/C0/C0"
+
+# Normal button text color
+ColorNormalButtonText="rgb:00/00/00"
+
+# Active button color
+ColorActiveButton="rgb:E0/E0/E0"
+
+# Active button text color
+ColorActiveButtonText="rgb:00/00/00"
+
+# Reload menu files automatically
+AutoReloadMenus=0 # 1 / 1
+
+# Show application icon over menu button
+ShowMenuButtonIcon=0 # 0 / 1
+
+# Menu icon size
+MenuIconSize=16 # 8-128
+
+# Menu font
+MenuFontName="-liberation-mono-bold-r-*-*-*-120-*-*-*-*-*-*"
+MenuFontNameXft="liberation-mono:size=11:bold"
+
+# Normal menu color
+ColorNormalMenu="rgb:C0/C0/C0"
+
+# Active menu item color
+ColorActiveMenuItem="rgb:A0/A0/A0"
+
+# Active menu item text color
+ColorActiveMenuItemText="rgb:00/00/00"
+
+# Normal menu item text color
+ColorNormalMenuItemText="rgb:00/00/00"
+
+# Disabled menu item text color
+ColorDisabledMenuItemText="rgb:80/80/80"
+
+# Show the submenu for selecting themes
+ShowThemesMenu=1 # 0 / 1
+
+# Minimal number of themes after which the Themes menu becomes nested (0=disabled)
+NestedThemeMenuMinNumber=15 # 0-1234
+
+# Show the IceWM "help" item on the task bar menu
+ShowHelp=0 # 0 / 1
+
+# Show the "logout" menu on the task bar menu
+ShowLogoutMenu=1 # 0 / 1
+
+# Show "Programs" menu
+ShowProgramsMenu=0 # 0 / 1
+
+# Show "Run..." on the menu
+ShowRun=0 # 0 / 1
+
+# Show logout sub-menu
+ShowLogoutSubMenu=1 # 0 / 1
+
+# Show window list on the menu
+ShowWindowList=0 # 0 / 1
+
+# Show "About" on the menu
+ShowAbout=0 # 0 / 1
+
+# Do not rotate the mouse cursor when displaying a menu
+DontRotateMenuPointer=1 # 0 / 1
+
+# Color of disabled menu items
+ColorDisabledMenuItemShadow="rgb:00/EE/FF"
+
+# Maximum menu width (0 to let IceWM decide)
+MenuMaximalWidth=0 # 0-20000
+
+# Delay before activating menu items
+MenuActivateDelay=40 # 0-5000
+
+# Delay before activating menu submenus
+SubmenuMenuActivateDelay=40 # 0-5000
+
+# Send the clicks outside menus to target window
+ReplayMenuCancelClick=0 # 0 / 1
+
+# Menus track mouse even with no mouse buttons held
+MenuMouseTracking=1 # 0 / 1
+
+# Show popup menus above mouse pointer
+ShowPopupsAbovePointer=0 # 0 / 1
+
+# Command to select and run a program (The "Run..." command on the taskbar menu)
+RunCommand=""
+
+# Open command
+OpenCommand=""
+
+# Command to start logout
+LogoutCommand=""
+
+# Command to cancel logout
+LogoutCancelCommand=""
+
+# Show task bar
+ShowTaskBar=1 # 0 / 1
+
+# Task bar at top of the screen
+TaskBarAtTop=1 # 0 / 1
+
+# Auto hide task bar after delay
+TaskBarAutoHide=0 # 0 / 1
+
+# Delay before task bar is automatically hidden
+AutoHideDelay=300 # 0-5000
+
+# Show window icons on the task bar
+TaskBarShowWindowIcons=0 # 0 / 1
+
+# Show the 'Show Desktop' button on taskbar
+TaskBarShowShowDesktopButton=0 # 0 / 1
+
+# Keep taskbar below all other windows
+TaskBarKeepBelow=1 # 0 / 1
+
+# Show all windows on the taskbar
+TrayShowAllWindows=0 # 0 / 1
+
+TaskBarShowCollapseButton=0
+
+# Show task tray on task bar
+TaskBarShowTray=0 # 0 / 1
+
+# Task tray has a bevel around it (Like the Windows system tray)
+TrayDrawBevel=0 # 0 / 1
+
+# Launch task bar programs (clock, etc.) on a single click
+TaskBarLaunchOnSingleClick=0 # 0 / 1
+
+# Show windows on the task bar
+TaskBarShowWindows=1 # 0 / 1
+
+# Show windows from all workspaces on task bar
+TaskBarShowAllWindows=0 # 0 / 1
+
+# Show "Start" menu on task bar
+TaskBarShowStartMenu=0 # 0 / 1
+
+# Show "window list" menu on task bar
+TaskBarShowWindowListMenu=0 # 0 / 1
+
+# Use double height task bar (highly recommended)
+TaskBarDoubleHeight=0 # 0 / 1
+
+# Normal taskbar font
+NormalTaskBarFontName="-liberation-mono-medium-r-*-*-*-120-*-*-*-*-*-*"
+NormalTaskBarFontNameXft="liberation-mono:size=11:medium"
+
+# Active taskbar font
+ActiveTaskBarFontName="-liberation-mono-bold-r-*-*-*-120-*-*-*-*-*-*"
+ActiveTaskBarFontNameXft="liberation-mono:size=11:bold"
+
+# Default taskbar color
+ColorDefaultTaskBar="rgb:C0/C0/C0"
+
+# Normal taskbar color
+ColorNormalTaskBarApp="rgb:C0/C0/C0"
+
+# Normal taskbar app text color
+ColorNormalTaskBarAppText="rgb:00/00/00"
+
+# Active taskbar app color
+ColorActiveTaskBarApp="rgb:E0/E0/E0"
+
+# Active taskbar app text color
+ColorActiveTaskBarAppText="rgb:00/00/00"
+
+# Minimized taskbar app color
+ColorMinimizedTaskBarApp="rgb:A0/A0/A0"
+
+# Minimized taskbar app text
+ColorMinimizedTaskBarAppText="rgb:00/00/00"
+
+# Invisible taskbar app color
+ColorInvisibleTaskBarApp="rgb:80/80/80"
+
+# Invisible taskbar app text
+ColorInvisibleTaskBarAppText="rgb:00/00/00"
+
+# Tool Button font
+ToolButtonFontName="-adobe-courier-bold-r-*-*-*-120-*-*-*-*-*-*"
+ToolButtonFontNameXft="courier:size=8:bold"
+
+# Toolbar button color
+ColorToolButton="rgb:C0/C0/C0"
+
+# Toolbar button text color
+ColorToolButtonText="rgb:00/00/00"
+
+# Number of seconds the taskbar application will blink when requesting focus
+FocusRequestFlashTime=0 # 0-86400
+
+# Show clock on task bar
+TaskBarShowClock=1 # 0 / 1
+
+# Task bar clock uses nice pixmapped LCD display
+TaskBarClockLeds=0 # 0 / 1
+
+# Clock color
+ColorClock="rgb:00/00/00"
+
+# Clock text color
+ColorClockText="rgb:00/FF/00"
+
+# Command to run when the taskbar clock is clicked
+ClockCommand=""
+
+# Clock font
+ClockFontName="-liberation-mono-medium-r-*-*-*-120-*-*-*-*-*-*"
+ClockFontNameXft="liberation-mono:size=11:medium"
+
+# Clock status WM_CLASS hint
+ClockClassHint="icewm.XClock"
+
+# Clock time format (strftime format string - see man page "strftime" for more info)
+TimeFormat="%d.%m.%Y - %H:%M"
+
+# Clock date format for tooltip (strftime format string - see man page "strftime" for more info)
+DateFormat="%A %B %d.%m.%Y - %H:%M:%S"
+
+# Alternate clock time format (for "flashing" effects - strftime format string - see man page "strftime" for more info)  Note: Leaving this blank may result in NO clock showing at all.
+TimeFormatAlt="%d.%m.%Y - %H:%M"
+
+# Show mailbox status on the task bar
+TaskBarShowMailboxStatus=0 # 0 / 1
+
+# Beep when new mail arrives
+TaskBarMailboxStatusBeepOnNewMail=0 # 0 / 1
+
+# Count messages in mailbox
+TaskBarMailboxStatusCountMessages=0 # 0 / 1
+
+# Delay between new-mail checks in seconds
+MailCheckDelay=30 # 0-3600
+
+# Command to run when mailbox icon is clicked
+MailCommand="xterm -name pine -title PINE -e pine"
+
+# Command to run when new mail arrives
+NewMailCommand=""
+
+# Mailbox path ($MAIL is used if no value is specified).  Example: file:///var/spool/mail/my_username       Example: pop3://my_username:my_password@my.mail-host.com/      Example: imap://my_username@my.mail-host.com/INBOX.mail.icewm-user
+MailBoxPath=""
+
+# Mail status WM_CLASS hint
+MailClassHint="pine.XTerm"
+
+# Show CPU status on task bar
+TaskBarShowCPUStatus=1 # 0 / 1
+
+# Width of CPU Monitor
+TaskBarCPUSamples=20 # 2-1000
+
+# User CPU usage color
+ColorCPUStatusUser="rgb:00/FF/00"
+
+# System CPU usage color
+ColorCPUStatusSystem="rgb:FF/00/00"
+
+# Nice CPU usage color
+ColorCPUStatusNice="rgb:00/00/FF"
+
+# CPU Idle color
+ColorCPUStatusIdle="rgb:255/255/00"
+
+# Command to run when CPU status monitor is clicked
+CPUStatusCommand=""
+
+# CPU status WM_CLASS hint
+CPUStatusClassHint=""
+
+# IO Wait on the CPU monitor
+ColorCPUStatusIoWait="rgb:60/00/60"
+
+# Soft Interrupts on the CPU monitor
+ColorCPUStatusSoftIrq="rgb:00/FF/FF"
+
+# Delay between CPU Monitor samples in ms
+TaskBarCPUDelay=500 # 10-3600000
+
+# Show network status on task bar
+TaskBarShowNetStatus=1 # 0 / 1
+
+# Network device for which to show network status (examples:  ppp0, lo, eth0)
+NetworkStatusDevice="enp3s0"
+
+# Color of sent data on net monitor
+ColorNetSend="rgb:FF/FF/00"
+
+# Color of received data on net monitor
+ColorNetReceive="rgb:FF/00/FF"
+
+# Color representing idle on net monitor
+ColorNetIdle="rgb:35/35/35"
+
+# Command to run when net status monitor is clicked
+NetStatusCommand=""
+
+# Net status WM_CLASS hint
+NetStatusClassHint=""
+
+# Width of Net Monitor
+TaskBarNetSamples=20 # 2-1000
+
+# Delay between Net Monitor samples in ms
+TaskBarNetDelay=500 # 10-3600000
+
+# Show Advanced Power Management time
+TaskBarShowAPMTime=0 # 0 / 1
+
+# Show Advanced Power Management (APM) status on task bar
+TaskBarShowAPMStatus=0 # 0 / 1
+
+# APM color
+ColorApm="rgb:00/00/00"
+
+# APM font
+ApmFontName="-liberation-mono-medium-r-*-*-*-140-*-*-*-*-*-*"
+ApmFontNameXft="liberation-mono:size=11:medium"
+
+# APM text color
+ColorApmText="rgb:00/FF/00"
+
+# List of battery names (directories) in /proc/acpi/battery to ignore for APM
+AcpiIgnoreBatteries=""
+
+# Horizontal scrollbar button size
+ScrollBarX=16 # 0-100
+
+# Vertical scrollbar button size
+ScrollBarY=16 # 0-100
+
+# Scroll bar delay
+ScrollBarDelay=30 # 0-5000
+
+# Initial scrollbar autoscroll delay
+ScrollBarStartDelay=500 # 0-5000
+
+# Auto scroll delay
+AutoScrollDelay=60 # 0-5000
+
+# Autoscroll start delay
+AutoScrollStartDelay=500 # 0-5000
+
+# Scroll bar color
+ColorScrollBar="rgb:A0/A0/A0"
+
+# Scroll bar arrow color
+ColorScrollBarArrow="rgb:C0/C0/C0"
+
+# Scroll bar slider color
+ColorScrollBarSlider="rgb:C0/C0/C0"
+
+# Scrollbar button color
+ColorScrollBarButton="rgb:C0/C0/C0"
+
+# Scrollbar button arrow color
+ColorScrollBarButtonArrow="rgb:00/00/00"
+
+# Inactive scrollbar button arrow color
+ColorScrollBarInactiveArrow="rgb:80/80/80"
+
+# Delay before tooltip window is displayed
+ToolTipDelay=1000 # 0-5000
+
+# Time before tooltip is hidden
+ToolTipTime=0 # 0-5000
+
+# Tooltip font
+ToolTipFontName="-liberation-mono-medium-r-*-*-*-120-*-*-*-*-*-*"
+ToolTipFontNameXft="liberation-mono:size=11:medium"
+
+# Tooltip color
+ColorToolTip="rgb:E0/E0/00"
+
+# Tooltip text color
+ColorToolTipText="rgb:00/00/00"
+
+# Pointer motion distance before click gets interpreted as drag
+ClickMotionDistance=4 # 0-32
+
+# Delay pointer focusing when mouse moves
+DelayPointerFocus=0 # 0 / 1
+
+# Always maintain focus under mouse window (makes some keyboard support non-functional)
+StrongPointerFocus=1 # 0 / 1
+
+# Colormap follows pointer
+PointerColormap=1 # 0 / 1
+
+# Workspace switches by moving mouse to left/right screen edge
+EdgeSwitch=0 # 0 / 1
+
+# Support mouse wheel
+UseMouseWheel=0 # 0 / 1
+
+# Move mouse when doing focusing in pointer focus mode
+WarpPointer=0 # 0 / 1
+
+# Delay before click gets interpreted as drag
+ClickMotionDelay=200 # 0-2000
+
+# Mouse double-click speed
+MultiClickTime=400 # 0-5000
+
+# Delay for pointer focus switching
+PointerFocusDelay=200 # 0-1000
+
+# Taking the mouse pointer to the edge of the screen moves to the next workspace
+ContinuousEdgeSwitch=0 # 0 / 1
+
+# Enable horizontal edge switch for the desktop
+HorizontalEdgeSwitch=0 # 0 / 1
+
+# Enable vertical edge switch for the desktop
+VerticalEdgeSwitch=0 # 0 / 1
+
+# Bitmask of root window button click to use in window manager
+UseRootButtons=7
+
+# Mouse-button clicked on desktop to show window list menu
+DesktopWinMenuButton=0
+
+# Mouse-button clicked on desktop to show window list
+DesktopWinListButton=0
+
+# Mouse-button clicked on desktop to show menu
+DesktopMenuButton=0
+
+# Titlebar buttons supported by theme (x, m, i, r, h, s, d)
+TitleButtonsSupported="xmis"
+
+# Titlebar buttons from left to right (x=close, m=max, i=min, h=hide, r=rollup, s=sysmenu)
+TitleButtonsLeft="s"
+
+# Titlebar buttons from right to left (x=close, m=max, i=min, h=hide, r=rollup, s=sysmenu)
+TitleButtonsRight="xmir"
+
+# Title bar height
+TitleBarHeight=20 # 0-128
+
+# Title bar font
+TitleFontName="-liberation-mono-bold-r-*-*-*-120-*-*-*-*-*-*"
+TitleFontNameXft="liberation-mono:size=11:bold"
+
+# Active title bar color
+ColorActiveTitleBar="rgb:00/00/A0"
+
+# Normal title bar color
+ColorNormalTitleBar="rgb:80/80/80"
+
+# Active title bar text color
+ColorActiveTitleBarText="rgb:FF/FF/FF"
+
+# Normal title bar text color
+ColorNormalTitleBarText="rgb:00/00/00"
+
+# Active title bar shadow
+ColorActiveTitleBarShadow="rgb:00/00/00"
+
+# Inactive title bar shadow
+ColorNormalTitleBarShadow="rgb:00/00/00"
+
+# Normal title button color
+ColorNormalTitleButton="rgb:C0/C0/C0"
+
+# Normal title button text color
+ColorNormalTitleButtonText="rgb:00/00/00"
+
+# Title bar join right
+TitleBarJoinRight=0 # 0 / 1
+
+# Title bar join left
+TitleBarJoinLeft=0 # 0 / 1
+
+# Title bar text position
+TitleBarJustify=0 # 0-100
+
+# Title bar text horizontal offset
+TitleBarHorzOffset=0 # -128-128
+
+# Title bar text vertical offset
+TitleBarVertOffset=0 # -128-128
+
+# Mouse-button clicked on titlebar to maximize window
+TitleBarMaximizeButton=1
+
+# Mouse-button clicked on titlebar to roll up window
+TitleBarRollupButton=2
+
+# Icon search path (colon separated)
+IconPath=""+getIceWMConfigPath()+"icons/:/usr/share/icons/:/usr/share/pixmaps/"
+
+# Dimension of the small icons
+SmallIconSize=8 # 8-128
+
+# Dimension of the large icons
+LargeIconSize=16 # 8-128
+
+# Dimension of the extra large icons
+HugeIconSize=24 # 8-128
+
+# KDE menu data directory
+KDEDataDir="/usr/share/applnk"
+
+# Automatically disable some functions when running under GNOME
+AutoDetectGNOME=0 # 0 / 1
+
+# Disable Gdk-Imlib image cache use
+DisableImlibCaches=1 # 0 / 1
+
+# Enable XFreeType extension (buggy, may result in font-loading errors)
+XFreeType=1 # 0 / 1
+
+# Use double buffering when redrawing the display
+DoubleBuffer=1 # 0 / 1
+
+# Xinerama primary screen
+XineramaPrimaryScreen=0 # 0-63
+
+# Ask for confirmation on logout
+ConfirmLogout=1 # 0 / 1
+
+# Command to lock display or show screensaver
+LockCommand=""
+
+# Terminal emulator (must accept -e option)
+TerminalCommand="xterm"
+
+# Command to reboot the system
+RebootCommand="reboot"
+
+# Command to shut down the system
+ShutdownCommand="poweroff"
+
+# Multibyte internationalization support
+MultiByte=1 # 0 / 1
+
+# FX Font font
+FxFontName="-liberation-mono-bold-r-*-*-*-120-*-*-*-*-*-*"
+FxFontNameXft="liberation-mono:size=11:bold"
+
+# Bitmask for inner decorations
+MoveSizeInterior=0 # 0-31
+
+# Bitmask for dimension lines
+MoveSizeDimensionLines=0 # 0-4095
+
+# Bitmask for gauge lines
+MoveSizeGaugeLines=0 # 0-15
+
+# Bitmask for dimension labels
+MoveSizeDimensionLabels=0 # 0-4095
+
+# Bitmask for geometry labels
+MoveSizeGeometryLabels=0 # 0-127
+
+# IceWM Themes
+Theme="icedesert/default.theme"
+
+# Theme author
+ThemeAuthor=""
+
+# Theme description
+ThemeDescription=""
+
+# List of gradient images in the current theme
+Gradients=""
+
+# Does the theme support the "O" title bar button images (for mouse rollover)
+RolloverButtonsSupported=0 # 0 / 1
+
+# Enable address bar on the task bar
+EnableAddressBar=0 # 0 / 1
+
+# Show address bar on the task bar
+ShowAddressBar=0 # 0 / 1
+
+# Address bar font
+InputFontName="-liberation-mono-bold-r-*-*-*-140-*-*-*-*-*-*"
+InputFontNameXft="liberation-mono:size=10:bold"
+
+# Input color (Address bar)
+ColorInput="rgb:FF/FF/FF"
+
+# Input text color (Address bar)
+ColorInputText="rgb:00/00/00"
+
+# Input selection color (Address bar)
+ColorInputSelection="rgb:80/80/80"
+
+# Input selection text color (Address bar)
+ColorInputSelectionText="rgb:00/00/00"
+
+# Command to run for address bar entries when [Enter] is pressed on the address bar
+AddressBarCommand=""
+
+# Display desktop wallpaper centered, instead of tiled.
+DesktopBackgroundCenter=0 # 0 / 1
+
+# Desktop background scaled to full screen
+DesktopBackgroundScaled=0 # 0 / 1
+
+# Desktop background color
+DesktopBackgroundColor=""
+
+# Desktop wallpaper image
+DesktopBackgroundImage="~/wp.png"
+
+# Support semi-transparent applications like gnome-terminal
+SupportSemitransparency=1 # 0 / 1
+
+# Color to use for transparent applications
+DesktopTransparencyColor="rgb:FF/FF/FF"
+
+# Image to use for transparent applications
+DesktopTransparencyImage=""
+
+# IceWM manages the root window
+GrabRootWindow=1 # 0 / 1
+
+# Display mini-icons on desktop for minimized windows
+MinimizeToDesktop=0 # 0 / 1
+
+# Support Windows95/98-style keyboard keys
+Win95Keys=0 # 0 / 1
+
+# Treat Penguin/Meta_L/Meta_R/Windows keys as Ctrl+Alt (support the "Windows" key)
+ModSuperIsCtrlAlt=0 # 0 / 1
+
+# "Raise window" shortcut
+KeyWinRaise=""
+
+# "Occupy all" shortcut
+KeyWinOccupyAll=""
+
+# "Lower window" shortcut
+KeyWinLower=""
+
+# "Close window" shortcut
+KeyWinClose="Super+Del"
+
+# "Restore window" shortcut
+KeyWinRestore=""
+
+# "Previous window" shortcut
+KeyWinPrev=""
+
+# "Next window" shortcut
+KeyWinNext=""
+
+# "Move window" shortcut
+KeyWinMove="Super+m"
+
+# "Size window" shortcut
+KeyWinSize="Super+b"
+
+# "Minimize window" shortcut
+KeyWinMinimize="Super+Space"
+
+# "Maximize window" shortcut
+KeyWinMaximize="Super+Tab"
+
+# "Maximize window vertically" shortcut
+KeyWinMaximizeVert="Super+Shift+Tab"
+
+# "Hide window" shortcut
+KeyWinHide=""
+
+# "Rollup window" shortcut
+KeyWinRollup=""
+
+# "Window menu" shortcut
+KeyWinMenu=""
+
+# "Next item" shortcut
+KeySysSwitchNext="Alt+Tab"
+
+# "Last item" shortcut
+KeySysSwitchLast="Alt+Shift+Tab"
+
+# "Next sys window" shortcut
+KeySysWinNext="Super+k"
+
+# "Previous sys window" shortcut
+KeySysWinPrev="Super+j"
+
+# "Window menu" shortcut
+KeySysWinMenu=""
+
+# "Logout / screenlock dialog" shortcut
+KeySysDialog=""
+
+# "Program menu" shortcut
+KeySysMenu=""
+
+# "Window list" shortcut
+KeySysWindowList=""
+
+# "Address bar" shortcut
+KeySysAddressBar=""
+
+# "Window full-screen" shortcut
+KeyWinFullscreen="Super+f"
+
+# "Undo arrange" shortcut
+KeySysUndoArrange="Super+n"
+
+# "Tile windows horizontally" shortcut
+KeySysTileHorizontal="Super+h"
+
+# "Tile windows vertically" shortcut
+KeySysTileVertical="Super+u"
+
+# "Arrange windows" shortcut
+KeySysArrange="Super+i"
+
+# "Arrange icons" shortcut
+KeySysArrangeIcons=""
+
+# "Minimize all windows" shortcut
+KeySysMinimizeAll=""
+
+# "Window list" shortcut
+KeySysWindowList=""
+
+# "Window list" menu shortcut
+KeySysWinListMenu=""
+
+# "Cascade windows" shortcut
+KeySysCascade=""
+
+# "Hide all windows" shortcut
+KeySysHideAll=""
+
+# "Workspace take last window" shortcut
+KeySysWorkspaceLastTakeWin="Super+Shift+Down"
+
+# "Go to last workspace" shortcut
+KeySysWorkspaceLast="Super+Down"
+
+# "Previous workspace" shortcut
+KeySysWorkspacePrev="Super+Left"
+
+# "Next workspace" shortcut
+KeySysWorkspaceNext="Super+Right"
+
+# "Take window to previous workspace" shortcut
+KeySysWorkspacePrevTakeWin="Super+Shift+Left"
+
+# "Take window to next workspace" shortcut
+KeySysWorkspaceNextTakeWin="Super+Shift+Right"
+
+# "Workspace 1" shortcut
+KeySysWorkspace1="Super+1"
+
+# "Workspace 2" shortcut
+KeySysWorkspace2="Super+2"
+
+# "Workspace 3" shortcut
+KeySysWorkspace3="Super+3"
+
+# "Workspace 4" shortcut
+KeySysWorkspace4="Super+4"
+
+# "Workspace 5" shortcut
+KeySysWorkspace5=""
+
+# "Workspace 6" shortcut
+KeySysWorkspace6=""
+
+# "Workspace 7" shortcut
+KeySysWorkspace7=""
+
+# "Workspace 8" shortcut
+KeySysWorkspace8=""
+
+# "Workspace 9" shortcut
+KeySysWorkspace9=""
+
+# "Workspace 10" shortcut
+KeySysWorkspace10=""
+
+# "Workspace 11" shortcut
+KeySysWorkspace11=""
+
+# "Workspace 12" shortcut
+KeySysWorkspace12=""
+
+# "Take window to workspace 1" shortcut
+KeySysWorkspace1TakeWin="Super+Shift+1"
+
+# "Take window to workspace 2" shortcut
+KeySysWorkspace2TakeWin="Super+Shift+2"
+
+# "Take window to workspace 3" shortcut
+KeySysWorkspace3TakeWin="Super+Shift+3"
+
+# "Take window to workspace 4" shortcut
+KeySysWorkspace4TakeWin="Super+Shift+4"
+
+# "Take window to workspace 5" shortcut
+KeySysWorkspace5TakeWin=""
+
+# "Take window to workspace 6" shortcut
+KeySysWorkspace6TakeWin=""
+
+# "Take window to workspace 7" shortcut
+KeySysWorkspace7TakeWin=""
+
+# "Take window to workspace 8" shortcut
+KeySysWorkspace8TakeWin=""
+
+# "Take window to workspace 9" shortcut
+KeySysWorkspace9TakeWin=""
+
+# "Take window to workspace 10" shortcut
+KeySysWorkspace10TakeWin=""
+
+# "Take window to workspace 11" shortcut
+KeySysWorkspace11TakeWin=""
+
+# "Take window to workspace 12" shortcut
+KeySysWorkspace12TakeWin=""
+
+# "Arrange Windows-North" shortcut
+KeyWinArrangeN="Super+w"
+
+# "Arrange Windows-Northeast" shortcut
+KeyWinArrangeNE="Super+e"
+
+# "Arrange Windows-East" shortcut
+KeyWinArrangeE="Super+d"
+
+# "Arrange Windows-Southeast" shortcut
+KeyWinArrangeSE="Super+c"
+
+# "Arrange Windows-South" shortcut
+KeyWinArrangeS="Super+x"
+
+# "Arrange Windows-Southwest" shortcut
+KeyWinArrangeSW="Super+z"
+
+# "Arrange Windows-West" shortcut
+KeyWinArrangeW="Super+a"
+
+# "Arrange Windows-Northwest" shortcut
+KeyWinArrangeNW="Super+q"
+
+# "Arrange Windows-Center" shortcut
+KeyWinArrangeC="Super+s"
+
+# "Show Desktop" shortcut
+KeySysShowDesktop=""
+
+# Show workspace switching buttons on task bar
+TaskBarShowWorkspaces=1 # 0 / 1
+
+# Place workspace buttons on the left, instead of the right
+TaskBarWorkspacesLeft=1 # 0 / 1
+
+# Names of the Workspaces
+WorkspaceNames="1","2","3","4"
+
+# Color of normal workspace button text
+ColorNormalWorkspaceButtonText="rgb:00/00/00"
+
+# Color of active workspace button text
+ColorActiveWorkspaceButtonText="rgb:00/00/EE"
+
+# Color of normal workspace button
+ColorNormalWorkspaceButton="rgb:C0/C0/C0"
+
+# Color of active workspace button
+ColorActiveWorkspaceButton="rgb:A0/A0/A0"
+
+# Normal workspace  font
+NormalWorkspaceFontName="-liberation-mono-medium-r-*-*-*-120-*-*-*-*-*-*"
+NormalWorkspaceFontNameXft="liberation-mono:size=11:medium"
+
+# Active workspace  font
+ActiveWorkspaceFontName="-liberation-mono-bold-r-*-*-*-120-*-*-*-*-*-*"
+ActiveWorkspaceFontNameXft="liberation-mono:size=11:bold"
+
+# Show workspace tooltip when changing workspaces
+ShowWorkspaceStatus=1 # 0 / 1
+
+# Status font
+StatusFontName="-liberation-mono-bold-r-*-*-*-120-*-*-*-*-*-*"
+StatusFontNameXft="liberation-mono:size=11:bold"
+
+# Number of milliseconds to display the workspace tooltip when changing workspaces
+WorkspaceStatusTime=2500 # 0-6000
+
+# Screen edge workspace switching delay
+#EdgeSwitchDelay=600 # 0-5000
+
+#  Show application icons in the tray panel
+TaskBarShowTray=0 # 0/1
+
+#  Enable the system tray in the taskbar
+TaskBarEnableSystemTray=0 # 0/1
+
+#  Show Ellipsis in taskbar items
+ShowEllipsis=0 # 0/1
+
+#  Show APM/ACPI/Battery/Power status monitor on task bar
+TaskBarShowAPMStatus=0 # 0/1
+
+#  Enable TaskBarShowAPMStatus if a battery is present
+TaskBarShowAPMAuto=0 # 0/1
+
+#  Show APM status on task bar in time-format
+TaskBarShowAPMTime=0 # 0/1
+
+#  Show memory usage status on task bar (Linux only)
+TaskBarShowMEMStatus=1 # 0/1
+
+#Hide Focus Mode thing
+ShowFocusModeMenu=0
