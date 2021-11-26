@@ -1,0 +1,2 @@
+# blueicewm
+An IceWM config
