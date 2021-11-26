@@ -1,0 +1,114 @@
+ThemeDescription="A dark theme with green elements included"
+ThemeAuthor="Otto Petäjä"
+License="GPL"
+
+# Look of the theme
+Look="pixmap"
+
+# Title bars
+TitleBarHeight=19
+TitleBarJustify=50
+TitleButtonsLeft=""
+TitleButtonsRight="xmi"
+TitleButtonsSupported="sxmihrd"
+ColorActiveTitleBar="#292929"
+ColorNormalTitleBar="#292929"
+ColorNormalTitleBarText="#248ad8"
+ColorActiveTitleBarText="#9e8319"
+
+# Borders
+BorderSizeX=2
+BorderSizeY=2
+CornerSizeX=4
+CornerSizeY=4
+DlgBorderSizeX=1
+DlgBorderSizeY=1
+ColorNormalBorder="#248ad8"
+ColorActiveBorder="#9e8319"
+
+# Buttons
+ColorNormalButton="#292929"
+ColorToolButton="#292929"
+ColorNormalButtonText="#248ad8"
+
+# Scroll bars
+ColorScrollBar="#9e8319"
+ColorScrollBarSlider="#808080"
+ColorScrollBarButtonArrow="#808080"
+
+# Workspaces
+ColorNormalWorkspaceButton="#292929"
+ColorActiveWorkspaceButton="#191919"
+ColorNormalWorkspaceButtonText="#248ad8"
+ColorActiveWorkspaceButtonText="#9e8319"
+
+# Menus
+ColorNormalMenu="#292929"
+ColorActiveMenuItem="#191919"
+ColorNormalMenuItemText="#248ad8"
+ColorActiveMenuItemText="#9e8319"
+ColorDisabledMenuItemText="#808080"
+
+# Taskbar
+ColorDefaultTaskBar="#292929"
+ColorNormalTaskBarApp="#292929"
+ColorNormalTaskBarAppText="#248ad8"
+ColorActiveTaskBarApp="#191919"
+ColorActiveTaskBarAppText="#9e8319"
+ColorMinimizedTaskBarApp="#292929"
+ColorMinimizedTaskBarAppText="#248ad8"
+
+# Listboxes
+ColorListBox="#292929"
+ColorListBoxText="#248ad8"
+ColorListBoxSelection="#191919"
+ColorListBoxSelectionText="#9e8319"
+
+# Dialog box
+ColorDialog="#292929"
+ColorLabel="#292929"
+ColorLabelText="#248ad8"
+
+# Tooltip 
+ColorToolTip="#292929"
+ColorToolTipText="#248ad8"
+
+# Whatever movesize is
+ColorMoveSizeStatus="#292929"
+ColorMoveSizeStatusText="#9e8319"
+
+# Quickswitch
+ColorQuickSwitch="#292929"
+ColorQuickSwitchText="#248ad8"
+ColorQuickSwitchActive="#191919"        
+
+# Clock customizations
+ColorClock="#292929"
+ColorClockText="#248ad8"
+TaskBarClockLeds=0
+
+# System monitoring background colors
+ColorNetIdle="#292929"
+ColorCPUStatusIdle="#292929"
+ColorMEMStatusFree="#292929"
+
+# CPU temp color
+ColorCPUStatusTemp="#9e8319"
+
+# Dimension of the menu icons
+MenuIconSize=8
+
+# Dimension of the small icons
+SmallIconSize=8 # 8-128
+
+# Dimension of the large icons
+LargeIconSize=16 # 8-128
+
+# Dimension of the extra large icons
+HugeIconSize=16 # 8-128
+
+
+# Desktop stuff
+DesktopBackgroundColor=""
+DesktopBackgroundImage=""
+
