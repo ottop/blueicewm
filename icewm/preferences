@@ -37,31 +37,31 @@ ColorCPUStatusTemp = "#159e5f"
 RaiseOnFocus=1 # 0 / 1
 
 # Raise window when client area clicked
-RaiseOnClickClient=0 # 0 / 1
+RaiseOnClickClient=1 # 0 / 1
 
 # Raise window when title bar is clicked
-RaiseOnClickTitleBar=0 # 0 / 1
+RaiseOnClickTitleBar=1 # 0 / 1
 
 # Raise when frame button is clicked
-RaiseOnClickButton=0 # 0 / 1
+RaiseOnClickButton=1 # 0 / 1
 
 # Raise when frame border is clicked
-RaiseOnClickFrame=0 # 0 / 1
+RaiseOnClickFrame=1 # 0 / 1
 
 # Pass focusing click on client area to client
-PassFirstClickToClient=0 # 0 / 1
+PassFirstClickToClient=1 # 0 / 1
 
 # Focus window when client area clicked
-FocusOnClickClient=0 # 0 / 1
+FocusOnClickClient=1 # 0 / 1
 
 # Focus windows by clicking
-ClickToFocus=0 # 0 / 1
+ClickToFocus=1 # 0 / 1
 
 # Focus normal window when initially mapped
-FocusOnMap=0 # 0 / 1
+FocusOnMap=1 # 0 / 1
 
 # Focus window when application window is raised
-FocusOnAppRaise=0 # 0 / 1
+FocusOnAppRaise=1 # 0 / 1
 
 # Change workspaces when focusing on a window on another workspace
 FocusChangesWorkspace=0 # 0 / 1
@@ -663,7 +663,7 @@ ClickMotionDistance=4 # 0-32
 DelayPointerFocus=0 # 0 / 1
 
 # Always maintain focus under mouse window (makes some keyboard support non-functional)
-StrongPointerFocus=1 # 0 / 1
+StrongPointerFocus=0 # 0 / 1
 
 # Colormap follows pointer
 PointerColormap=1 # 0 / 1
@@ -924,10 +924,10 @@ KeyWinClose="Super+Del"
 KeyWinRestore=""
 
 # "Previous window" shortcut
-KeyWinPrev=""
+KeyWinPrev="Super+Shift+j"
 
 # "Next window" shortcut
-KeyWinNext=""
+KeyWinNext="Super+Shift+k"
 
 # "Move window" shortcut
 KeyWinMove="Super+m"
@@ -960,10 +960,10 @@ KeySysSwitchNext="Alt+Tab"
 KeySysSwitchLast="Alt+Shift+Tab"
 
 # "Next sys window" shortcut
-KeySysWinNext="Super+k"
+KeySysWinNext="Super+j"
 
 # "Previous sys window" shortcut
-KeySysWinPrev="Super+j"
+KeySysWinPrev="Super+k"
 
 # "Window menu" shortcut
 KeySysWinMenu=""
